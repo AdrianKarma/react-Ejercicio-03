@@ -21,5 +21,5 @@ Lineas para clonar y correr el proyecto:
 ##
  >[!IMPORTANT]
 Link Netlify:
-https://react-tp-01-adrian-chanampa.netlify.app/
+https://react-tp-03-adrian-chanampa.netlify.app/
 
